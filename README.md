@@ -19,14 +19,6 @@
 ### 📊 Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfjin&layout=compact&theme=tokyonight&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### 🔥 Contribution Graph:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pfjin&theme=dark&hide_border=true&card_width=500)
-
-### 👀 Visitor Count:
-![Visitor Count](https://komarev.com/ghpvc/?username=pfjin&color=blue)
-
-
 <!--
 **pfjin/pfjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
