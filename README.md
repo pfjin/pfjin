@@ -5,7 +5,7 @@
 ### 🌱 About Me:
 - 🔭 I’m currently working on **Wearable Energy Harvesting & AI**
 - 🤖 I use **Python, TensorFlow, PyTorch** for research
-- 🚀 I'm currently pursuing the M.E. degree in control engineering
+- 🚀 I'm currently pursuing the M.E. degree in **control engineering**
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
